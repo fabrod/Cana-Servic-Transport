@@ -1,6 +1,8 @@
-Thanks for downloading this theme!
+
 
 Theme Name: Rapid
-Theme URL: 
+URL: 
 Author: 
-Author URL: 
+
+Coming Soon , Late May 2019
+
