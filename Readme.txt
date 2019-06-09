@@ -1,8 +1,7 @@
 
 
-Theme Name: Rapid
-URL: 
-Author: 
+Bootstrap website for a transportation company in Dominican Republic 
+ 
 
-Coming Soon , Late May 2019
+Coming Soon , Mid June 2019
 
