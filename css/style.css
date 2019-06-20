@@ -1,13 +1,25 @@
-/*
-  Theme Name: Rapid
-  Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+#logo {
+  
+  margin-top: 300px;
+ 
+}
+
+.blue {
+  color: lightskyblue;
+  font-family: cursive;
+}
+
+.orange {
+  color:orangered;
+  font-family: cursive;
+}
+
+.green {
+  color: greenyellow;
+  font-family: cursive;
+}
+
 
 body {
   background: #fff;
