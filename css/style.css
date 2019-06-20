@@ -3,18 +3,15 @@
 
 .blue {
   color: lightskyblue;
-  font-family: cursive;
+  
 }
 
-.orange {
-  color:orangered;
-  font-family: cursive;
+.dark-blue {
+  color:#00008B;
+  
 }
 
-.green {
-  color: greenyellow;
-  font-family: cursive;
-}
+
 
 
 body {
