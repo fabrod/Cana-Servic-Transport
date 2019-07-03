@@ -1,6 +1,6 @@
 
 
-Bootstrap website for a transportation company in Dominican Republic 
+Bootstrap website for a transportation company service....
  
 
 
